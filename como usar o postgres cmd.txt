@@ -1,0 +1,10 @@
+abra direto o cmd em qualuqer nivel
+digite psql -U postgres -h localhost
+vai acabar entrando
+depois use \l  barra eli para listar todas as bases.
+agora conect a base 'postgres' usando o comando \c postgres
+para listar as tabelas da base já escolida \dt
+dentro voce digita \d vendas e da enter que vai mostrar a descricao da tabelas escolhida;
+
+
+https://www.youtube.com/watch?v=fD7x8hd9yE4 esse cara em ingles usa uns comandos no cmd do postgres
